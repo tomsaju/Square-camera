@@ -1,4 +1,4 @@
-# square-camera-sample
+# Square Camera 
 A sample camera application that has an instagram like square preview and uses Camera 2 API.
 
 This uses camera fragment from [google samples](https://github.com/googlesamples/android-Camera2Basic) for camera2 API.
